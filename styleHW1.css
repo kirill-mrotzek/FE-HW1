@@ -1,0 +1,54 @@
+h1{
+    color:blue;
+    width: 400px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+h2{
+    color:blue;
+    width: 400px;
+    font-size: 15px;
+    text-align: justify;
+}
+h3{
+    color:blue;
+    width: 400px;
+    font-size: 15px;
+    text-align: justify;
+}
+p{
+    width: 400px;
+    text-indent: 30px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+#changeColor1{
+    color: red;
+}
+#changeColor2{
+    color: red;
+}
+#changeColor3{
+    color: red;
+}
+#changeColor4{
+    color: red;
+}
+#changeColor5{
+    color:blue;
+    font-style: italic;
+}
+#changeColor6{
+    color: blue;
+    font-style: italic;
+}
+#changeColor7{
+    color:blue;
+    font-style: italic;
+}
+#changeColor8{
+    color:blue;
+    font-style: italic;
+}
